@@ -1,3 +1,6 @@
+<p align="center">
+  
+
 # airDefender
 <img src="Assets/Sprites/AirRaid.png"/>
 
@@ -5,4 +8,7 @@ Arcade game where you play as air defence gun system in a occupation of a town, 
 -------
 version *BETA*
 -------
+
+</p>
+
 
