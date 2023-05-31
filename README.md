@@ -1,6 +1,6 @@
 
 <h1 align="center">Air Raid</h1>
-<h1 align="center">Version BETA</h1>
+<p align="center">Version BETA</p>
 
 
 <p align="center">
